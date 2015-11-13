@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1417917584 source:e:\huffman\codeblocks\huffmancompression\bitstream.cpp
+	"BitStream.h"
+
+1417915473 e:\huffman\codeblocks\huffmancompression\bitstream.h
+	<fstream>
+
+1417917018 source:e:\huffman\codeblocks\huffmancompression\huffmancompression.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	"HuffmanTree.h"
+	"BitStream.h"
+
+1417917000 e:\huffman\codeblocks\huffmancompression\huffmantree.h
+	"TreeNode.h"
+
+1417867505 e:\huffman\codeblocks\huffmancompression\treenode.h
+
+1417917304 source:e:\huffman\codeblocks\huffmancompression\huffmantree.cpp
+	<queue>
+	"HuffmanTree.h"
+
+1417867574 source:e:\huffman\codeblocks\huffmancompression\treenode.cpp
+	"TreeNode.h"
+
